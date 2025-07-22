@@ -1,2 +1,2 @@
 # achievment
-!st done now 2nd
+!st done now 2nd now 1step or
